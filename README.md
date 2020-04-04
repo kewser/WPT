@@ -1,4 +1,4 @@
 # WPT
 Web Penetration Testing
 
-Character set for Fuzzing parameters.
+Character sets for Fuzzing parameters in URLs.
